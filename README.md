@@ -8,3 +8,5 @@ I'm trying to learn git-hub to make some personal projects with Python andd add 
 Thanks for reading this! I don't know who would but thanks! haha
 
 BYE!
+
+Hi, this is a changed made in linux!
